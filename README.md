@@ -33,9 +33,7 @@ personal-portfolio/
 └── images/
 ```
 
-##  🔗 Live Demo
-(https://israt-hub.github.io/Myportfolio)
-
+[Visit My Portfolio](https://israt-hub.github.io/My-portfolio/)
 
 
 ⭐ Thank you for visiting my portfolio!

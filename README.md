@@ -33,16 +33,10 @@ personal-portfolio/
 └── images/
 ```
 
-## 🚀 Live Website
+##  🔗 Live Demo
+[Visit My Portfolio](https://isratjahan.github.io/Myportfolio)
 
-[Visit My Portfolio](YOUR_LIVE_WEBSITE_URL)
 
-## 📬 Connect With Me
-
-- **GitHub:** [My GitHub Profile](YOUR_GITHUB_PROFILE_URL)
-- **LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_PROFILE_URL)
-
----
 
 ⭐ Thank you for visiting my portfolio!
 
